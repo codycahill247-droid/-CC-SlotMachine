@@ -1,8 +1,8 @@
-local programUrl = "https://raw.githubusercontent.com/-CC-SlotMachine/blob/main/slotmachine.lua"
+local programUrl = "https://raw.githubusercontent.com/codycahill247-droid/-CC-SlotMachine/main/slotmachine.lua"
 local programPath = "slotmachine.lua"
 
 local startup = [[
-local url = "https://raw.githubusercontent.com/-CC-SlotMachine/blob/main/slotmachine.lua"
+local url = "https://raw.githubusercontent.com/codycahill247-droid/-CC-SlotMachine/main/slotmachine.lua"
 local path = "slotmachine.lua"
 
 term.clear()
